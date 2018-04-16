@@ -7,11 +7,6 @@
 //
 
 #import "ViewController.h"
-@interface MyObject: NSObject
-@end
-
-@implementation MyObject
-@end
 
 @interface ViewController ()
 
